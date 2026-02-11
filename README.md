@@ -6,7 +6,7 @@ Independent researcher focused on alternative computing architectures and brain-
 
 ## Research Direction
 
-My work explores hardware-first approaches to computation using controlled electromagnetic interactions, investigating non-conventional computing primitives beyond traditional transistor-based logic.
+My work explores hardware-first approaches to computation through controlled electromagnetic coupling, investigating computing primitives beyond conventional transistor-based logic.
 
 ---
 
@@ -17,7 +17,8 @@ My work explores hardware-first approaches to computation using controlled elect
 - Prototype-stage architectural development
 
 Primary project:
-- **Induction-Coupling Architecture (ICA)**
+- [Induction-Coupling Architecture (ICA)](https://github.com/sridharr01/ICA)
+
 
 ---
 
