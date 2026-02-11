@@ -1,16 +1,26 @@
-## Hi there 👋
+# Sridhar R
 
-<!--
-**sridharr01/sridharr01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent researcher focused on alternative computing architectures and brain-inspired hardware systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Direction
+
+My work explores hardware-first approaches to computation using controlled electromagnetic interactions, investigating non-conventional computing primitives beyond traditional transistor-based logic.
+
+---
+
+## Current Focus
+
+- Induction-based logic experimentation
+- Hardware-level adaptive computing concepts
+- Prototype-stage architectural development
+
+Primary project:
+- **Induction-Coupling Architecture (ICA)**
+
+---
+
+## Collaboration
+
+Open to research collaboration, incubation programs, and deep-tech mentorship opportunities.
